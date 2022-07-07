@@ -28,8 +28,7 @@ exports.handler = async (event) => {
                     lastName: undefined,
                     email: undefined,
                     location: undefined,
-                    payment_method: undefined,
-                    total_amount: undefined
+                    payment_method: undefined
                 },
                 products: []
             });
